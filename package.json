@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://danielbetesh.github.io/rive-full-screen",
+  "homepage": "https://danielbetesh-db.github.io/rive-full-screen",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
